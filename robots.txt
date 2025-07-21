@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://leveldevil-game.github.io/sitemap.xml
